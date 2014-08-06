@@ -1,0 +1,24 @@
+Pregame/Lobby Wait Time:
+31
+
+Radius of Target (hit detection):
+50
+
+Number of Rounds:
+3
+
+Time Per Round:
+60
+
+Target Point Values:
+156
+246
+357
+408
+503
+687
+688
+777
+865
+1000
+

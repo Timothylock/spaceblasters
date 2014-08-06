@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130901-r5756">
+  <project autorefresh="false" main="game.class" manifest="" root="" work="">
+    <createjar file="final.jar" flags="12"/>
+    <source>
+      <file active="true" name="game.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="SuperSocketMaster.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="TargetServer.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="AnimationPanel.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="HelpPanel.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="LobbyPanel.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MainPanel.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="music.java" package="" timestamp="31-Dec-1969 19:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
